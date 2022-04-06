@@ -6,5 +6,7 @@ public class TestCase001 {
         System.out.println("work1 finished");
 
         System.out.println("work2 finished");
+
+        System.out.println("work 3 completed");
     }
 }
