@@ -8,5 +8,7 @@ public class TestCase001 {
         System.out.println("work2 finished");
 
         System.out.println("work 3 completed");
+
+        System.out.println(" work4 completed");
     }
 }
